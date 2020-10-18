@@ -33,4 +33,4 @@ This project is simple daily schedule application. Special features include the 
  Isha Khosla is the main author. However they recieved help and guidance from tutor Simmon Rennocks. 
 
 ### Link to the App
-https://ishakhosla131.github.io/dayPlanner/
+https://ishakhosla131.github.io/Planner/
